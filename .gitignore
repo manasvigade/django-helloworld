@@ -1,0 +1,19 @@
+# .gitignore
+
+# Virtual environment
+myworld/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Django specific
+db.sqlite3
+/media/
+/staticfiles/
+
+# IDE specific
+.vscode/
+.idea/
+
